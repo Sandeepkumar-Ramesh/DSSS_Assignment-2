@@ -1,2 +1,2 @@
-# DSSS_Assignment-2
-DSSS_Assignment 2 for Winter 23/24 semester
+"# Your Project Name" 
+"This is a brief description of your project." 
